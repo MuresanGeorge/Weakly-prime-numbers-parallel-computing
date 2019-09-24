@@ -1,0 +1,5 @@
+﻿  ExempluOpenMp.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\george\source\repos\exempluopenmp\exempluopenmp\exempluopenmp.cpp(42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\george\source\repos\exempluopenmp\exempluopenmp\exempluopenmp.cpp(46): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ExempluOpenMp.vcxproj -> C:\Users\George\source\repos\ExempluOpenMp\Debug\ExempluOpenMp.exe

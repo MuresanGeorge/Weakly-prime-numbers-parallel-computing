@@ -1,0 +1,19 @@
+un fisier DOC in care se descrie problema 
+cu exemple si ce inseamna 
+
+tot in acest doc sa precizez solutia propusa ( cum am rezolvat problema )
+
+----------------------------------------------
+un fisier excel cu graficul pentru timp si speed up  ( cu 1 thread, 2, 3... pana la 8)
+(sa zicem si pentru cate core-uri ) 
+in c cu pthread  
+in c cu openMP
+in java cu threads 
+
+
+mix O E G R & double EG
+
+spring security
+https://www.youtube.com/watch?v=HAmqB123sDc
+
+learn british council ( site )
